@@ -1,0 +1,6 @@
+# Core PDF processing libraries
+PyMuPDF
+markitdown
+
+# Optional: For better image handling and optimization
+Pillow
